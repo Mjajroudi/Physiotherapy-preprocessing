@@ -143,33 +143,13 @@ for col in Columns:
         print('  significant relation(reject H0)')
 
 
-# 
-
-# In[ ]:
 
 
 
 
 
-# In[ ]:
 
 
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
